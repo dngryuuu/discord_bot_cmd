@@ -29,4 +29,5 @@ client.on("message", (message) => {
 	command.run(client, message, args)
 })
 
-client.login('ODEzNjkzMzA4MTM5OTk1MTM2.YDTA8g.HIC2EKZcEayGxqrmM-Cj7A6ZsWg');
+
+client.login('');
